@@ -24,4 +24,4 @@ Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvime
 # 📊 GitHub Stats:
 
 ---
-[![](https://visitcount.itsvg.in/api?id=USUARIO DO GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
+//[![](https://visitcount.itsvg.in/api?id=USUARIO DO GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
