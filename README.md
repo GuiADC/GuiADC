@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvimento de sistemas pelo Centro Universitário de Brasília. Desde então, busco estar sempre evoluindo e por dentro do que o mundo delphi tem à oferecer.  
+Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvimento de sistemas pelo Centro Universitário de Brasília. Desde então, busco estar sempre evoluindo e me mantendo atualizado sobre o universo Delplhi.  
 
 **Atualmente:** DESCREVE SEU CENÁRIO ATUAL, SEJA TRABALHANDO OU ESTUDANDO.
 
