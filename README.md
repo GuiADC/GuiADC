@@ -2,7 +2,7 @@
 
 Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvimento de sistemas pelo Centro Universitário de Brasília. Desde então, busco estar sempre evoluindo e me mantendo atualizado sobre o universo Delphi.  
 
-**Atualmente:** Desenvolvedor delphi Jr full stack.
+**Atualmente:** Desenvolvedor delphi Jr full stack pela Xs Soluções global IT.
 
 **Estudando:** Criação e deploys de servidores back-end em nuvem pela ORACLE Cloud.
 
