@@ -17,11 +17,3 @@ Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvime
 <img src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebird-orange"/>
-
-
-
-# 📊 GitHub Stats:
-
----
-//[![](https://visitcount.itsvg.in/api?id=USUARIO DO GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
