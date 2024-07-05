@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 
-TEXTO COM PELO MENOS DOIS PARÁGRAFOS SOBRE VOCÊ
+Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvimento de sistemas pelo Centro Universitário de Brasília. Dese então, busco estar sempre evoluindo e por dentro do que a tecnologia tem para oferecer.  
 
 **Atualmente:** DESCREVE SEU CENÁRIO ATUAL, SEJA TRABALHANDO OU ESTUDANDO.
 
@@ -26,8 +26,6 @@ PREENCHA COM AS STACKS E FERRAMENTAS QUE UTILIZA. EXEMPLO:
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=USUARIO DO GITHUB&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=USUARIO DO GITHUB&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO DO GITHUB&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=USUARIO DO GITHUB&icon=0&color=0)](https://visitcount.itsvg.in)
