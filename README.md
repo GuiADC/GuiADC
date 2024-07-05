@@ -17,6 +17,9 @@ Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvime
 <img src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://firebirdsql.org/file/about/firebird-logo-42.png"/>
+
+
 
 # 📊 GitHub Stats:
 
