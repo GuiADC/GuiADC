@@ -23,3 +23,5 @@ Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvime
 |                                                                                                                      |<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>|                                                                                                                      |                                                                                                                         |
 
 # 💻 Tecnologias que estou buscando estudar e aprimorar
+|Delphi     |Web           |
+|-----------|--------------|
