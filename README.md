@@ -20,6 +20,6 @@ Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvime
 <img src="https://img.shields.io/badge/Firebird-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
-|  Data-base | Linguagem  | Cloud         | 
+|  Database | Linguagem  | Cloud         | 
 |------------| -----------|---------------|
 |<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>             |            |               |
