@@ -18,10 +18,11 @@ Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvime
 
 
 
+
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
-|  Database | Linguagem  | Cloud         | 
-|------------| -----------|---------------|
-|<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>             |<img src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white"/>            |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>               |
-|<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>        |                                                                                                                   |                                                                                                                      |
-|<img src="https://img.shields.io/badge/Firebird-orange?style=for-the-badge"/>                                         |                                                                                                                   |                                                                                                                      |
+|  Database | Linguagem  | Cloud         | version control  | 
+|------------| -----------|--------------|------------------|
+|<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>             |<img src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white"/>            |<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>               |                             |
+|<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>        |                                                                                                                   |                                                                                                                      |                             |
+|<img src="https://img.shields.io/badge/Firebird-orange?style=for-the-badge"/>                                         |                                                                                                                   |                                                                                                                      |                             |
