@@ -4,8 +4,6 @@ Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvime
 
 **Atualmente:** Desenvolvedor delphi Jr full stack pela Xs Soluções global IT.
 
-**Estudando:** Criação de sistemas delphi com camandas front e back-end e deploys de servidores em nuvem pela ORACLE Cloud.
-
 # 📧 Contato:
 
 <a href="mailto:gui-arujo@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/><a/>
