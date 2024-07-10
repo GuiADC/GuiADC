@@ -20,5 +20,5 @@ Desenvolvedor full stack delphi à dois anos, formado em análise e desenvolvime
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 
 |  Data-base | Linguagem  | Cloud         | 
-| |----------- | ------------- |
-| -----------|----------- | ------------- |
+|------------| -----------|---------------|
+|            |            |               |
