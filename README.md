@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
-Brasília - DF
-Desenvolvedor delphi há dois anos, formado em análise e desenvolvimento de sistemas pelo Centro Universitário de Brasília. Desde então, busco estar sempre evoluindo e me mantendo atualizado sobre o universo Delphi.  
+
+Residindo em Brasília - DF e desenvolvedor delphi há dois anos, formado em análise e desenvolvimento de sistemas pelo Centro Universitário de Brasília. Desde então, busco estar sempre evoluindo e me mantendo atualizado sobre o universo Delphi.  
 
 **Atualmente:** Desenvolvedor delphi Jr full stack pela Xs Soluções global IT.
 
